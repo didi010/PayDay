@@ -1,5 +1,5 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "apkUrl": "https://github.com/didi010/PayDay/raw/refs/heads/main/PayDay.apk",
-  "releaseNotes": "PayDay v2.0 - הגרסה העדכנית!"
+  "releaseNotes": "PayDay v2.0 - הגרסה העדכנית + בדיקת עדכון אוטומטי"
 }
