@@ -1,5 +1,5 @@
 {
-  "versionCode": 4,
+  "versionCode": 5,
   "apkUrl": "https://github.com/didi010/PayDay/raw/refs/heads/main/PayDay.apk",
-  "releaseNotes": "PayDay v2.1 - מנגנון התראות מדויק על הדקה, שמירת היסטוריית שכר נפרדת לכל חודש, ופירוט תעריפי שעות נוספות באקסל"
+  "releaseNotes": "PayDay v2.2 - אפשרות לבחירת ימי עבודה ספציפיים להתראות, ותיקוני עיצוב באגים."
 }
